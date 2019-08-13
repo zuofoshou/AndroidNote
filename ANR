@@ -1,0 +1,2 @@
+一、什么是ANR？
+Application Not Responding，应用程序未响应。系统会实时追踪任务状态，一旦规定时间的内没反应，就会触发ANR。收集程序信息并弹出ANR提示框。
